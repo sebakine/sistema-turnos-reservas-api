@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b3f1c2a4-5d6e-4f70-8a91-0b1c2d3e4f50",
+    "name": "Consulta de medicina general",
+    "description": "Evaluación clínica general con médico cirujano",
+    "category": "salud",
+    "price": 25000,
+    "duration": 30,
+    "available": true
+  },
+  {
+    "id": "c4a2d3b5-6e7f-4081-9b02-1c2d3e4f5061",
+    "name": "Sesión de kinesiología",
+    "description": "Rehabilitación musculoesquelética personalizada",
+    "category": "salud",
+    "price": 18000,
+    "duration": 45,
+    "available": false
+  },
+  {
+    "id": "d5b3e4c6-7f80-4192-8c13-2d3e4f506172",
+    "name": "Corte de cabello",
+    "description": "Corte y peinado para adultos",
+    "category": "belleza",
+    "price": 12000,
+    "duration": 40,
+    "available": true
+  },
+  {
+    "id": "e6c4f5d7-8091-42a3-9d24-3e4f50617283",
+    "name": "Clase de yoga",
+    "description": "Clase grupal de yoga nivel inicial",
+    "category": "bienestar",
+    "price": 8000,
+    "duration": 60,
+    "available": true
+  }
+]
